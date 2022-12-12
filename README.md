@@ -1,6 +1,6 @@
 
 
-<img src="smart_calc.png" alt="smart_calc" style="zoom:50%;" />
+<img src="resources/smart_calc.png" alt="smart_calc" style="zoom:50%;" />
 
 # Smart Calculator
 
@@ -14,7 +14,7 @@ The aim of this project was to create a convenient and yet functional calculator
 * Plotting a graph of a function given by an expression;
 * Special calculations in credit calculator mode.
 
-<img src="view.png" alt="smart_calc" style="zoom:80%;" />
+<img src="resources/view.png" alt="smart_calc" style="zoom:80%;" />
 
 **Supported Operations**
 
