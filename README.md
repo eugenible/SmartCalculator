@@ -6,7 +6,7 @@
 
 ## Description
 
-Stack of technologies used for implementation of this project: **C++, Qt. **
+Stack of technologies used for implementation of this project: **C++, Qt.**
 
 The aim of this project was to create a convenient and yet functional calculator with some special options:
 
